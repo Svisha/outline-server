@@ -55,7 +55,6 @@ See [Shadowsocks resistance against detection and blocking](docs/shadowsocks.md)
    ```sh
    ./task clean
    ```
-# [Статья переехала на ypermitin.github.io](https://ypermitin.github.io/devoooops/2022/03/30/Установка-Outline-VPN-на-Ubuntu-20.04.html)
 
 # Установка Outline VPN на Ubuntu 20.04
 
